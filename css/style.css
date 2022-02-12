@@ -1,0 +1,27 @@
+.myBoldFont {
+    /*background-color: #9ACD32;*/
+    font-weight: bold;
+}
+
+.myTextSize {
+
+    font-size: large;
+    font-weight: bold;
+
+}
+
+
+.sapMPage>section.sapMPageEnableScrolling {
+    display: contents;
+}
+
+.myDisplay .sapUxAPObjectPageSectionTitle {
+    display: none;
+}
+
+
+.myColor .sapUxAPObjectPageSubSectionHeaderTitle {
+
+    color: #5c85d6;
+    font-weight: bold
+}
